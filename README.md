@@ -27,6 +27,7 @@ Berikut struktur folder dalam aplikasi ini:
 
 ## Credits
    Dosen Pembimbing : Bonda Sisephaputra, M. Kom.
+   
    Author: Kelompok 2 - TI 2019 B
    1. Ichwan Syifa'ul Qulud - 19051204060
    2. Siti Halimatus Sadiyah - 19051204065
